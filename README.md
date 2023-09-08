@@ -1,2 +1,6 @@
-# repo
-This is my first repository. Now i am bing a coder feels.
+#include<stdio.h>
+int main() 
+{
+printf("Hello World");
+return 0;
+}
